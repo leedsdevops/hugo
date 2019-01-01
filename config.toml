@@ -1,3 +1,38 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.leedsdevops.org.uk/"
+title = "LeedsDevops"
+canonifyurls = true
+paginate = 10
+theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
-title = "My New Hugo Site"
+copyright = "Code released under the Apache 2.0 license."
+googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS generation
+disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus comments
+
+[author]
+  name = "LeedsDevops"
+
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "A hub for everyone who lives, breathes and occasionally sleeps DevOps in Leeds and the surrounding area"
+  Author = "LeedsDevops"
+  email = "info@leedsdevops.org.uk" #Remove this line if you would prefer not to use an email button in the footer.
+  postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
+  showReadTime = false #set to false to exclude read time from header of post
+  # This will load all the CSS defined in the list
+  customCSS = ["<absolute path to CSS>", "/static/css/test.css", "<or just load it off the internet>"]
+  
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/leedsdevops"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/leedsdevops"
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Archives"
+  url = "/post/"
+  weight = -180
