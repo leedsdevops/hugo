@@ -3,17 +3,17 @@ title = "LeedsDevops"
 canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
-languageCode = "en-us"
+languageCode = "en-gb"
 copyright = "Code released under the Apache 2.0 license."
 googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS generation
-disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus comments
+#disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus comments
 
 [author]
   name = "LeedsDevops"
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "A hub for everyone who lives, breathes and occasionally sleeps DevOps in Leeds and the surrounding area"
+  Description = "Creating a DevOps community in Leeds since 2013"
   Author = "LeedsDevops"
   email = "info@leedsdevops.org.uk" #Remove this line if you would prefer not to use an email button in the footer.
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
@@ -29,8 +29,16 @@ disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus com
   url = "https://github.com/leedsdevops"
 
 [[menu.main]]
-  name = "home"
-  url = "/"
+  name = "Attend a Meetup"
+  url = "/attend"
+  weight = -200
+[[menu.main]]
+  name = "Speak at a Meetup"
+  url = "/speak"
+  weight = -200
+[[menu.main]]
+  name = "About Us"
+  url = "/about"
   weight = -200
 [[menu.main]]
   name = "Archives"
