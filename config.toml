@@ -13,7 +13,7 @@ googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS
 
 [params]
   DateForm = "Mon, Jan 2, 2006"
-  Description = "Creating a DevOps community in Leeds since 2013"
+  Description = "Supporting the DevOps community in Leeds since 2013"
   Author = "LeedsDevops"
   email = "info@leedsdevops.org.uk" #Remove this line if you would prefer not to use an email button in the footer.
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
