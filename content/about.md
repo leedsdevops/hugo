@@ -6,7 +6,7 @@ type: "about"
 
 ## What is a LeedsDevops ?
 
-LeedsDevops is a technology meetup in Leeds about DevOps (you can see we thought long and hard about the name). It's an get together for a like-minded people to get together and enjoy presentations about DevOps. There are many interpretations of DevOps, but we see it as the combination of technology, people and organisations easing the practice of getting code into production (and keeping it running). Each meetup typically has two 40 minute talks about the aforementioned topics, this could be a tutorial on using a technology or a case study sharing experiences and lessons learned.
+LeedsDevops is a technology meetup in Leeds about DevOps (you can see we thought long and hard about the name). It's a get together for a like-minded people who want to exchange ideas and collaborate whilst enjoying presentations about DevOps. There are many interpretations of DevOps, but we see it as the combination of technology, people and organisations easing the practice of getting code into production (and keeping it running). Each meetup typically has two 40 minute talks about the aforementioned topics, this could be a tutorial on using a technology or a case study sharing experiences and lessons learned.
 
 
 ## A Brief History of LeedsDevops
