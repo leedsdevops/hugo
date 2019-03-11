@@ -4,7 +4,7 @@ draft = false
 categories = ["meetups"]
 tags = ["leeds", "devops","sre","operability"]
 title = "Meetup - Tuesday 19th March 2019 at The ODI Node in Leeds"
-description = "We're back at the ODI Node in Leeds on Tuesday 19th March 2019 for our Devops meetup with Hannah Foxwell from Pivitol talking about DevOps vs SRE and Alexandra Carter of Trans Union putting the Ops back into Devops."
+description = "We're back at the ODI Node in Leeds on Tuesday 19th March 2019 for our Devops meetup with Hannah Foxwell from Pivitol talking about DevOps vs SRE and Alexandra Moore of Trans Union putting the Ops back into Devops."
 +++
 We’re back at the ODI Node in Leeds on Tuesday 19th March 2019 for our Devops meetup, here's what we have in store for you:
 
@@ -15,9 +15,11 @@ We’re back at the ODI Node in Leeds on Tuesday 19th March 2019 for our Devops 
 * 8:20 - 9:00 : Reliability Engineering for Humans
 * 9:00 - late : Social
 
-Our first speaker of the night is Alexandra Carter. Alex has worked in IT, Marketing/Web design, Software Support and Software Delivery before moving into her current System Build (DevOps) role within TransUnion (formerly Callcredit). She spends her days making stuff better and says that a day without Metal and motor racing is a dull one.
+Our first speaker of the night is Alexandra Moore. Alex has worked in IT, Marketing/Web design, Software Support and Software Delivery before moving into her current System Build (DevOps) role within TransUnion (formerly Callcredit). She spends her days making stuff better and says that a day without Metal and motor racing is a dull one.
 
-Alex has had rave reviewers from her 3 Ways of Devops talk at Leeds Testing Atelier and DevOpsDays London, using the idea of Gods, Reporters and Geniuses to spread the DevOps goodness to everyone. But tonight Alex will bring us her new talk "Devoperability: Putting the Ops back into DevOps" one we are very much looking forward to see.
+We do "DevDev" really well, but are Ops people sufficiently engaged in 'DevOps' efforts and do we know what Operability means?  We seem to have moved the wall between Dev and Ops a little bit further to the right, instead of destroying it! 
+
+Many larger organisations are guilty of this and TransUnion are not immune.  One of our greatest challenges is to encourage product teams to look not just at deploy-and-run-ability but also at long term operability of solutions.  I'll talk a bit about what operability means for us and how we can embed the right concepts early - with particular emphasis on understanding, testing and deployment.
 
 Our headline speaker sees the welcome return of Hannah Foxwell. Hannah is delivery manager at Pivotal, where she helps teams transform how they deliver software. A HumanOps champion, a HugOps evangelist, and a DevOps believer, 
 
