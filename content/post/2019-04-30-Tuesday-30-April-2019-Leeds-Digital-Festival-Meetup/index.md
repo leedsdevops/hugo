@@ -15,7 +15,7 @@ It's time for our Leeds Digital Festival event, we're super excited to bring you
 * 8:20 - 9:00 : How DevOps Evolution Happens
 * 9:00 - late : Social
 
-![Speakers](/20190430/speakers.jpg)
+{{< img src="speakers.jpg" alt="Speakers" sizes="(min-width: 35em) 800px, 100vw"  >}}
 
 Our first speaker Steve Giguere is Senior Solution Architect at Aqua Security. Steve started his cyber security life by being kicked out of his high school computing class for privilege escalation on the school linux system. Since then he has spent time in the aero industry writing software to ensure planes didn't crash, the telecom industry ensuring that calls got connected and the automotive industry making sure your car would start. With quality, safety and security as a focus for over 30 years working in software, he's now come full circle as a dedicated DevSecOps champion, securing cloud native applications. Prior to joining Aqua Security he was a Lead Solution Architect for the Software Integrity Group at Synopsys focusing on Enterprise solutions for application security testing, building scalable secure CI/CD solutions. He also has a podcast called Codifyre, and is an enthusiastic Ultimate Frisbee player.
 
@@ -25,12 +25,13 @@ The team here at LeedsDevops is delighted to welcome one of the most respected n
 
 Her talk "How DevOps Evolution Happens" looks at how organizations of all types and sizes globally are adopting DevOps ways of working and benefitting from delivering better value outcomes faster and more safely to their customers. In this session, Helen will share her observations on where DevOps starts, how to maintain momentum, the steps a typical DevOps evolution takes and the kind of things that stymie progress and frustrate vision. Using real world examples from her own experiences, Helen will share success patterns and tactics for surfacing best practices and highlight common challenges and how to overcome them. She will look at culture and climate and how to use psychology and neuroscience to drive behavioural change, advise on techniques to optimise the value stream from idea to value realisation and show how a DevOps toolchain overlays, accelerates and supports end to end flow.
 
-### First Time Atendees
-Here at LeedsDevops we understand that coming along to your first meetup can be an anxious experience, walking into a large room full of people can be daunting. So when you arrive at the meetup we'll have an additional small room for new atendees to make friends with other first time atendees. Then shortly before the start we'll show you into the main room helping make the whole experience less intimidating (but honestly there's nothing to worry about the LeedsDevops crowd is a friendly bunch). We'll also use this room as a quiet space between the talk for those that don't want to join the discussion.
+### First Time Attendees
+Here at LeedsDevops we understand that coming along to your first meetup can be an anxious experience, walking into a large room full of people can be daunting. So when you arrive at the meetup we'll have an additional small room for new attendees to make friends with other first time attendees. Then shortly before the start we'll show you into the main room helping make the whole experience less intimidating (but honestly there's nothing to worry about the LeedsDevops crowd is a friendly bunch). We'll also use this room as a quiet space between the talk for those that don't want to join the discussion.
 
 ### Refreshments
 We're continuing to expand the range of refreshments on offer, there will be a wide range of quality soft drinks, teas and coffees, craft beer, cider and wine - a massive thanks to our sponsors [Infinity Works](https://www.infinityworks.com/) for their continued support and sponsorship of the event.
-![Refreshments](/20190430/refreshments.jpg)
+
+{{< img src="refreshments.jpg" alt="Refreshments" sizes="(min-width: 35em) 800px, 100vw"  >}}
 
 ### Venue
 The ODI Node Leeds is situated at Munro House, on Duke Street. If you want to find out more about the ODI details can be found at http://theodi.org/nodes/leeds
@@ -40,3 +41,9 @@ Please note that we have an [anti harassment policy and code of conduct](/post/2
 
 ### Tickets
 Tickets will be available shortly.
+
+Tickets are available from [eventbrite](https://leedsdevops-april-2019.eventbrite.co.uk) and [meetup.com](https://www.meetup.com/LeedsDevops/events/260456381/)
+
+
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=60085190422&amp;ref=etckt" frameborder="0" height="350" width="100%" marginheight="5" marginwidth="5" scrolling="auto"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;"><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Powered by Eventbrite</a></div></div>
+
