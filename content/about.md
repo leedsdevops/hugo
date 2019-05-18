@@ -11,7 +11,7 @@ LeedsDevops is a technology meetup in Leeds about DevOps (you can see we thought
 
 ## A Brief History of LeedsDevops
 
-The meetup was formed back in the autumn of 2013, the first meetup was held in an upstairs room of the Brewery Tap in Leeds and attended by around 6 people. Fast forward to 2019 and we've had over 40 meetups with industry renowned speakers and many local practitioners sharing the work their DevOps experiences. We typically give away 100+ tickets for each meetup and are usually snapped up by the community we have built within a few hours.
+The meetup was formed back in the autumn of 2013, the first meetup was held in an upstairs room of the Brewery Tap in Leeds and attended by around 6 people. Fast forward to 2019 and we've had over 40 meetups with industry renowned speakers and many local practitioners sharing their DevOps experiences. We typically give away 100+ tickets for each meetup and are usually snapped up by the community we have built within a few hours.
 
 ## Get Involved
 
