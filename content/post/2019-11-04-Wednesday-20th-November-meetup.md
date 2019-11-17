@@ -4,20 +4,20 @@ draft = false
 categories = ["meetups"]
 tags = ["leeds", "devops", "decade"]
 title = "Meetup - Wednesday 20th November 2019 at The ODI Node in Leeds"
-description = "Time for our final meetup of the year, we'll be at the ODI Node in Leeds on Wednesday 20th November for a night of DevOps enlightenment. We'll be looking at 10 years of DevOps and asking our panel about DevOps past, present and future. Featuring Sophie Weston (Piksel), Ivor Caldwell (Infinity Works), Pauline Narvas (BT) and Ian Watson (Burberry)"
+description = "Time for our final meetup of the year, we'll be at the ODI Node in Leeds on Wednesday 20th November for a night of DevOps enlightenment. We have Matthew Leak talking about Multi-Tenancy Cross Platform Apps and we'lll be looking at 10 years of DevOps and asking our panel about DevOps past, present and future. Featuring Sophie Weston (Piksel), Ivor Caldwell (Infinity Works), Pauline Narvas (BT) and Ian Watson (Burberry)"
 +++
 Time for our final meetup of the year, we'll be at the ODI Node in Leeds on Wednesday 20th November for a night of DevOps enlightenment. 
 
 * 6:45 - 7:15 : Doors open, have a chat, make some new devops friends
 * 7:15 - 7:25 : Group updates/news/announcements
-* 7:25 - 8:05 : TBC
+* 7:25 - 8:05 : Multi-Tenancy Cross Platform Apps
 * 8:05 - 8:20 : Intermission
 * 8:20 - 9:00 : 10 Years of DevOps Panel
 * 9:00 - late : Social
 
-We're looking to announce our first speaker soon (stay tuned), but for the main event we have a terrific lineup for a Panel discussion.
+Our first talk of the evening is from Matthew Leak, Matthew is a Senior Consultant at Infinity Works and will be discussing how they deploy multi-tenanted cross-platform mobile applications.
 
-Last month saw the 10th aniversary DevOpsDays conference in Ghent, tonight we're going to be asking a panel of DevOps experts their thoughts and opinions on the past, present and future of DevOps.
+Last month saw the 10th anniversary DevOpsDays conference in Ghent, tonight we're going to be asking a panel of DevOps experts their thoughts and opinions on the past, present and future of DevOps.
 Our panel includes:
 
 * Sophie Weston - DevOps Advocate at Piksel, Ambassador for Women In Tech York, Co-organiser of DevOpsDays London.
